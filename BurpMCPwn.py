@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # BurpMCPwn - Burp Suite Extension for MCP Security Auditing
 # Ported/Adapted from MCPwn.py with enhanced security features
-# Author: Cursor AI
+
 
 from burp import IBurpExtender
 from burp import ITab
