@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="static/logo.png" alt="BurpMCPwn Logo" width="500"/>
+  <img src="static/logo.png" alt="BurpMCPwn Logo" width="400"/>
 </p>
 
 # BurpMCPwn
