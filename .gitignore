@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jython
+jython-standalone*.jar
+Lib/
+site-packages/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+# Burp
+*.burp
+*.tmp
+
+# Environment
+.env
+venv/
+env/
+
